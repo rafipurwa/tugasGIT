@@ -1,0 +1,24 @@
+GIT merupakan sebuah version control system yang mana dirancang untuk mendevelop sebuah project lebih tepatnya untuk melacak setiap perubahan pada source code.
+
+Terdapat 2 platform GIT yaitu Github dan Gitlab, keduanya sama-sama berfungsi untuk membuat repository.
+
+Keuntungan GIT :
+- Dapat melihat version control
+- Dapat membuat branch dimana berguna untuk menambahkan fitur baru atau memperbaiki bug
+- Merge dimana untuk menggabungkan perubahan yang telah dibuat ke branch utama
+- Mempunyai performa yang cepat dan stabil
+
+Beberapa perintah yang sering digunakan :
+-git init
+-git commit
+-git push
+-git pull
+-git status
+-git branch
+-git clone
+-git merge
+-git checkout
+-git log
+-git add
+-git diff
+-git reset
